@@ -9,9 +9,9 @@
   "author": "German David",
   "license": "ISC",
   "devDependencies": {
-    "autoprefixer": "^9.6.1",
+    "autoprefixer": "^10.4.23",
     "gulp": "^3.9.1",
-    "gulp-autoprefixer": "^6.1.0",
+    "gulp-autoprefixer": "^10.0.0",
     "gulp-sass": "^4.0.2"
   }
 }
